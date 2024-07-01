@@ -1,8 +1,47 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Currency Rate Project
 
-Currently, two official plugins are available:
+This project is a React application bootstrapped with [Vite](https://vitejs.dev/) that provides real-time currency exchange rates.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Getting Started
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+Ensure you have Node.js and npm installed. You can download them from [nodejs.org](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository
+    ```sh
+    git clone https://github.com/sujalxverma/CurrencyRate.git
+    ```
+
+2. Navigate to the project directory
+    ```sh
+    cd CurrencyRate
+    ```
+
+3. Install the dependencies
+    ```sh
+    npm install
+    ```
+
+4. Start the development server
+    ```sh
+    npm run dev
+    ```
+
+5. Open [CurrencyRate]( https://sujalxverma.github.io/CurrencyRate/) to view it in your browser.
+
+## Features
+
+- Fetches real-time currency exchange rates
+- Converts between different currencies
+- User-friendly interface
+
+ 
